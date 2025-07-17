@@ -1,0 +1,7 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Basit bir Merhaba Dünya paketi",
+  "entry": "src/main.js",
+  "tags": ["example", "hello", "world"]
+}
