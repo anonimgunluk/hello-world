@@ -2,6 +2,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "Basit bir Merhaba Dünya paketi",
+  "repo": "https://github.com/anonimgunluk/hello-world",
   "entry": "src/main.js",
   "tags": ["example", "hello", "world"]
 }
